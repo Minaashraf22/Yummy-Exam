@@ -19,4 +19,4 @@ Yummy Exam is a web project designed to provide an interactive user experience f
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/yummy-exam.git
+   git clone https://github.com/minaashraf22/yummy-exam.git
