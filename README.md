@@ -1,22 +1,29 @@
 # Yummy Exam
 
-Yummy Exam is a web project designed to provide an interactive user experience for an examination system. This project is built using HTML, Bootstrap, and JavaScript.
+Yummy Exam is a web application that offers an interactive food-themed quiz experience. Explore various culinary questions, test your knowledge, and enjoy a fun learning journey through food!
+
+## Live Demo
+
+Check out the live demo: [Yummy Exam Live Demo](https://routeegy.github.io/YummyExam/)
 
 ## Features
 
-- Responsive design with Bootstrap
-- Interactive UI elements with JavaScript
-- Easy to use and navigate
+- **Food Quiz:** Engage in quizzes covering a wide range of food-related topics including cuisines, ingredients, cooking techniques, and culinary history.
+- **Interactive UI:** User-friendly interface designed to enhance the quiz-taking experience.
+- **Score Tracking:** Keep track of your quiz scores and review past performance.
+- **Responsive Design:** Optimized for use on desktops, tablets, and mobile devices for seamless user interaction.
 
 ## Technologies Used
 
-- HTML
-- Bootstrap
-- JavaScript
+- **HTML:** Structure of web pages.
+- **CSS (Bootstrap):** Front-end framework for responsive design.
+- **JavaScript:** Adding interactivity and functionality to the quizzes.
 
-## Installation
+## Getting Started
+
+To run the Yummy Exam project locally, follow these steps:
 
 1. Clone the repository:
-
    ```bash
-   git clone https://github.com/minaashraf22/yummy-exam.git
+   git clone https://github.com/routeegy/YummyExam.git
+
